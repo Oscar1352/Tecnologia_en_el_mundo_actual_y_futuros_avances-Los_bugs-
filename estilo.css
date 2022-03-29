@@ -1,0 +1,35 @@
+/*Parte de Elisa*/
+h1{
+    background-color:LightSlateGray;
+    color: black;
+}
+
+h2{
+    background-color:MediumSeaGreen;
+    color:black;
+    text-align:center;
+}
+
+li{
+    background-color:MediumSeaGreen;
+    color:black;
+    text-align:left;
+}
+
+
+p{
+    background-color: LightSlateGray;
+    color: black;
+}
+
+h2.avances{
+    background-color:LightPink;
+    color:black;
+    text-align:center;
+}
+
+h1.extra{
+    background-color: RebeccaPurple;
+    color: black;
+    text-align: center;
+}
