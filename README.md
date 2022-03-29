@@ -21,6 +21,6 @@
     - Carné: 1506422
 5. Karol Mariánn Castro Ordoñez 
     - Carné: 1545522
-6. Katy Rosmery Perez Rojop 
+6. ***Katy Rosmery Perez Rojop (PENDIENTE)
     - Carné: 1656821
 
