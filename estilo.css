@@ -1,5 +1,36 @@
-<!-- Parte de Elisa -->
-head {
-    background-color: LightGray;
-  }
-<!-- Parte de Karol -->
+/*Parte de Elisa*/
+h1{
+    border: 10cm lightgray;
+    background-color:LightSlateGray;
+    color: black;
+}
+
+h2{
+    background-color:MediumSeaGreen;
+    color:black;
+    text-align:center;
+}
+
+li{
+    background-color:MediumSeaGreen;
+    color:black;
+    text-align:left;
+}
+
+
+p{
+    background-color: LightSlateGray;
+    color: black;
+}
+
+h2.avances{
+    background-color:LightPink;
+    color:black;
+    text-align:center;
+}
+
+h1.extra{
+    background-color: RebeccaPurple;
+    color: black;
+    text-align: center;
+}
