@@ -2,41 +2,46 @@
 #cuadradotitulo {
   width: 700px;
   height: 35px;
-  background: #a6c068;
+  background: #5d8ebb;
   border-radius: 10px;
+  color: black;
 }
 
 #cuadradosubtitulo {
   width: 350px;
   height: 35px;
-  background: #04ccf0;
+  background:  #619e8e;
   border-radius: 10px;
+  color: black;
 }
 
 #cuadradolistado {
   width: 350px;
   height: 170px;
-  background: #a6c068;
+  background: #ab9680;
   border-radius: 10px;
 }
 
 #cuadradotitulodefiniciones1 {
   width: 350px;
   height: 35px;
-  background: #a6c068;
+  background: #f28773;
   border-radius: 10px;
+  color: black;
 }
 
 #cuadradotitulodefiniciones2 {
   width: 950px;
   height: 35px;
-  background: #a6c068;
+  background: #bb7397;
   border-radius: 10px;
+  color: black;
 }
 #cuadradotitulodefiniciones3 {
   width: 620px;
   height: 35px;
-  background: #a6c068;
+  background: #752121;
   border-radius: 10px;
+  color: white;
 }
 
