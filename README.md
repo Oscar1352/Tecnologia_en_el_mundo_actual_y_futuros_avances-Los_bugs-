@@ -17,10 +17,12 @@
     - Carné: 1553222
 3. Angel Santiago Urbina Lopez 
     - Carné: 1546122
-4. Rudy Anderson Díaz Díaz 
-    - Carné: 1506422
-5. Karol Mariánn Castro Ordoñez 
+4. Karol Mariánn Castro Ordoñez 
     - Carné: 1545522
-6. ***Katy Rosmery Perez Rojop (PENDIENTE)
-    - Carné: 1656821
+```diff
+-5. Rudy Anderson Díaz Díaz (INFORMACIÓN)
+- Carné: 1506422
+-6. Katy Rosmery Perez Rojop (NADA)
+- Carné: 1656821
+```
 
