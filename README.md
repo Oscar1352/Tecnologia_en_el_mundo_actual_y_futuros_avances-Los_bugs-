@@ -10,7 +10,7 @@
 6. Comprender los secretos microscopicos ocultos en las superficies.
 7. Tecnologia implantada en nuestro cuerpo.
 
-## Integrantes>
+## Integrantes:
 1. Oscar Alejandro Luna Ordoñez
     - Carné: 1530622
 2. Elisa Yanira Ajxup Yax 
