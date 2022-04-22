@@ -19,10 +19,5 @@
     - Carné: 1546122
 4. Karol Mariánn Castro Ordoñez 
     - Carné: 1545522
-```diff
--5. Rudy Anderson Díaz Díaz (INFORMACIÓN)
-- Carné: 1506422
--6. Katy Rosmery Perez Rojop (NADA)
-- Carné: 1656821
-```
+
 
